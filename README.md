@@ -1,1 +1,1 @@
-# CTX DTM repository fo NLP-Wrinkle-Ridges
+# CTX DTM repository for northen Lunae Planum Wrinkle Ridges
