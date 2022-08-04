@@ -1,5 +1,5 @@
 # The dataset repository for northern Lunae Planum Wrinkle Ridges
-The CTX DTM repository for reproducing the results of the paper "Circum-Tharsis wrinkle ridges at Lunae Planum: Morphometry, formation, and crustal implications" by O Karagoz et al., 2022.
+The CTX DTM repository for reproducing the results of the paper "Circum-Tharsis wrinkle ridges at Lunae Planum: Morphometry, formation, and crustal implications" by O Karagoz et al., 2022, Icarus.
 
 Oguzcan Karagoz, Thomas Kenkmann, Gerwin Wulf,
 
